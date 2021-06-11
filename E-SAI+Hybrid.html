@@ -1,127 +1,330 @@
-<html>
-  
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <title>Event-based Synthetic Aperture Imaging with a Hybrid Network</title>
-<!--   <style>
-    .container{width:1000px;margin: 150px auto;}
-    .video{width: 960px;height:100%;border:4px solid #555555;}
-  <\style> -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event-based Synthetic Aperture Imaging with a Hybrid Network</title>
+    <style>
+        .container{width:970px; margin: 50px auto; }
+        .video{width: 960px;height:540px;border:5px solid rgba(0,0,0,.05);} 
+        /* border:5px solid rgba(0,0,0,.2); */
+        .styled_p {
+            padding-right: 25px;
+            padding-left: 25px;
+            font-family: Roboto,sans-serif;
+            font-size: 16px;
+            line-height: 22px;
+            font-weight: 300;
+            text-align: justify;}
+        .caption_p {
+            font-family: Roboto,sans-serif;
+            font-size: 16px;
+            font-weight: 300;}
+        .empty_line{
+            padding-right: 25px;
+            padding-left: 25px;
+            font-family: Roboto,sans-serif;
+            font-size: 5px;
+            text-align: justify;}
+        .styled_h3 {
+            padding-right: 25px;
+            padding-left: 25px;
+            font-family: Roboto,sans-serif;
+            line-height: 22px;
+            font-weight: 300;
+            text-align: justify;}
+        .subtitle_h3 {
+            padding-right: 25px;
+            padding-left: 25px;
+            color: rgba(0,0,0,.56);
+            font-family: Roboto,sans-serif;
+            text-align: justify;}
+        .styled_h2 {
+            margin-top: 40px;
+            margin-bottom: 23px;
+            margin-left: 25px;
+            /* font-family: Ubuntu,Helvetica,sans-serif; */
+            color: rgba(0,0,0,.56);
+            font-size: 28px;
+            text-align: center;
+            text-transform: none;
+            text-shadow: none;
+            }
+        .styled_h1 {
+            margin-top: 80px;
+            margin-bottom: 23px;
+            /* font-family: Ubuntu,Helvetica,sans-serif; */
+            text-align: center;
+            text-transform: none;
+            text-shadow: none;
+            }
+        .citation {
+            margin-right: 15px;
+            margin-left: 15px;
+            font-family: 'Open Sans',sans-serif;
+            font-size: 16px;
+            }
+        .styled_img{
+          border:1.5px solid rgba(0,0,0,1);
+          width: 128px;
+          height: 128px;
+        }
+        
+    </style>
 </head>
 
+<body>
+<!-- Title -->
+<h1 class="styled_h1"> Event-based Synthetic Aperture Imaging with a Hybrid Network </h1>
+  <h3 align="center"> CVPR 2021 Oral </h3>
   
- <br>
-  <br>
-<h1 align=center> Event-based Synthetic Aperture Imaging with a Hybrid Network </h1>
-  <h3 align=center> CVPR 2021 Oral </h3>
-  
-<TABLE align="center" border=0 width="800">
+<!-- AuthorList -->
+<TABLE align="center" border=0 width="1000">
 <TR vAlign=top>
-  
-<TD width="125" align="center">
-   Xiang Zhang <span class="text-span_nerf_star">*</span>
+<TD width="150" align="center">
+ Xiang Zhang <span class="text-span_nerf_star">*</span>
 <p> Wuhan University <br>
 </TD>
   
-<TD width="125" align="center">
+<TD width="150" align="center">
   Wei Liao  <span class="text-span_nerf_star">*</span>
   <p> Wuhan University <br>
   </TD>
   
-<TD width="125" align="center">
+<TD width="150" align="center">
   Lei Yu <span class="text-span_nerf_star">&dagger;</span>
   <p> Wuhan University <br>
   </TD>
   
-<TD width="125" align="center">
+<TD width="150" align="center">
   Wen Yang
 <p> Wuhan University <br>
 </TD>
   
-<TD width="125" align="center">
+<TD width="150" align="center">
 Gui-Song Xia
 <p> Wuhan University 
 </TD>
 </TR>
 </TABLE>
-<p align=center> <span class="text-span_nerf_star">*</span> Denotes Equal Conrtibution  &dagger; Denotes Corresponding Author  </p>
+<p align=center> <span class="text-span_nerf_star">*</span> Denotes Equal Conrtibution &nbsp; &nbsp; &dagger; Denotes Corresponding Author  </p>
  <br>
- 
+
+<!-- Icons -->
 <TABLE align="center" border=0 width="600">
 <TR vAlign=top>
 <TD width="200" align="center">
    <a href="https://arxiv.org/abs/2103.02376" class="link-block w-inline-block">
-    <img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5cab99df4998decfbf9e218e_paper-01.png" alt="paper" style="width: 68.6px;height:64px" srcset="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5cab99df4998decfbf9e218e_paper-01-p-500.png 500w, https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5cab99df4998decfbf9e218e_paper-01.png 672w" >
+    <!-- <img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5cab99df4998decfbf9e218e_paper-01.png" alt="paper" style="width: 68.6px;height:64px" srcset="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5cab99df4998decfbf9e218e_paper-01-p-500.png 500w, https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5cab99df4998decfbf9e218e_paper-01.png 672w" > -->
+    <img src="E-SAI/paper_icon.png" alt="paper" style="width: 68.6px;height:64px">
   </a> <br>
  <strong> Paper <br>
 </TD>
   
 <TD width="200" align="center">
-   <a href="https://XiangZ-0.github.io" target="_blank" >
-      <img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5cae3b53b42ebb3dd4175a82_68747470733a2f2f7777772e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6f637469636f6e732f313032342f6d61726b2d6769746875622d3235362e706e67.png"  style="width: 64px;height:64px" alt="paper" >
-    </a> <br>
+   <!-- <a href="https://XiangZ-0.github.io" target="_blank" > -->
+      <!-- <img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5cae3b53b42ebb3dd4175a82_68747470733a2f2f7777772e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6f637469636f6e732f313032342f6d61726b2d6769746875622d3235362e706e67.png"  style="width: 64px;height:64px" alt="paper" > -->
+      <img src="E-SAI/github_icon.png" alt="paper" style="width: 64px;height:64px">
+    <!-- </a>  -->
+    <br>
   <strong>  Code <br>
  </TD>
   
 <TD width="200" align="center">
   <!-- <a href="https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1?usp=sharing" target="_blank" class="link-block w-inline-block"> -->
-    <img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5e7136849ee3b0a0c6a95151_database.svg" style="width: 68.6px;height:64px" alt="paper">
-<!--     </a> --> <br>
+    <!-- <img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5e7136849ee3b0a0c6a95151_database.svg" style="width: 68.6px;height:64px" alt="paper"> -->
+    <img src="E-SAI/data_icon.svg" style="width: 68.6px;height:64px" alt="paper">
+    <!--     </a> --> <br>
   <strong> Data <br>
   </TD>
 </TR>
 </TABLE>
 
-  
-<h3>Overview Video</h3>
-<!--     <div class="container">
-    <div class="video">
-      <embed width="100%" height="100%" src="https://www.youtube.com/watch?v=a81xBe2ZX_8" autostart="false"></embed>
+<!-- Video -->
+<div align=center class="container">
+    <h2 class="styled_h2"> - Overview Video - </h2>
+    <div class="video" style="background-color: rgba(0,0,0,.05)">
+      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/a81xBe2ZX_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    </div> -->
+</div>
 
-  
-<h3>Additional information:</h3>
-<ul>
-<li> <a href=http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf>PDF file</a> (8.92 MB)
-<li> <a href=confocal-sig04_2000kbs.mpg>MPEG-1 video</a>
-(5 minutes, 86 MB)
-<li> <a href=confocal-sig04_mpeg4.avi>MPEG-4 video</a>
-(same content but more heavily compressed, 8 MB)
-<li> <a href=confocal-sig04.ppt>SIGGRAPH Powerpoint presentation</a> (7 MB,
-the embedded video is available separately, see previous link)
-</ul>
+<!-- Abstract -->
+<div align=center class="container">
+    <h2 class="styled_h2"> - Abstract - </h2>
+    <div style="background-color: rgba(0,0,0,.05); padding-top: 5px; padding-bottom: 5px;" >
+    <p class="styled_p" align=left>  Synthetic aperture imaging (SAI) is able to achieve the see through effect by blurring out the off-focus foreground occlusions and reconstructing the in-focus occluded targets from multi-view images. However, very dense occlusions and extreme lighting conditions may bring significant disturbances to the SAI based on conventional frame-based cameras, leading to performance degeneration. To address these problems, we propose a novel SAI system based on the event camera which can produce asynchronous events with extremely low latency and high dynamic range. Thus, it can eliminate the interference of dense occlusions by measuring with almost continuous views, and simultaneously tackle the over/under exposure problems. To reconstruct the occluded targets, we propose a hybrid encoder-decoder network composed of spiking neural networks (SNNs) and convolutional neural networks (CNNs). In the hybrid network, the spatio-temporal information of the collected events is first encoded by SNN layers, and then transformed to the visual image of the occluded targets by a style-transfer CNN decoder. Through experiments, the proposed method shows remarkable performance in dealing with very dense occlusions and extreme lighting conditions, and high quality visual images can be reconstructed using pure event data.</p>
+    <img src="E-SAI/pipeline.png" style="width: 900px;height:203px" alt="paper">
+    </div>
+</div>
 
-  
-<h3>摘 要</h3>
-</p>合成孔径成像通过多角度获取目标信息来等效大孔径和小景深相机成像. 因此, 该技术可以虚化遮挡物, 实现对被遮
-挡目标的成像. 然而, 在密集遮挡和极端光照条件下, 由于遮挡物的密集干扰和相机本身较低的动态范围, 基于传统相机的合
-成孔径成像无法有效地对被遮挡目标进行成像. 本文利用事件相机低延时、高动态的特性, 提出基于事件相机的合成孔径成像
-方法. 事件相机产生异步事件数据, 具有极低的延时, 能够以连续视角观测场景, 从而消除密集干扰的影响. 而事件相机的高动
-态范围使其能够有效处理极端光照条件下的成像问题. 通过分析场景亮度变化与事件相机输出的事件点之间的关系, 从对焦
-后事件点重建出被遮挡目标, 实现基于事件相机的合成孔径成像. 实验结果表明, 本文方法与传统方法相比, 在密集遮挡条件
-下重建图像的对比度、清晰度、峰值信噪比和结构相似性指数均有较大提升. 同时, 在极端光照条件下, 本文方法能有效解决
-过曝/欠曝问题, 重建出清晰的被遮挡目标图像.</p>
-<h3>关键词<h3>
-<p>事件相机, 合成孔径成像, 遮挡物去除, 图像重建<p>
+<!-- Results -->
+<div align=center class="container">
+    <h2 class="styled_h2"> - Results - </h2>
 
-<h4 align=center>结果展示</h4>
-<table>
-<tr>
-  <td><p>
-<img src="/file3/1.jpeg" width="250" height="150" />
-    </p></td>
-  <td><p>
-<img src="/file3/2.jpeg" width="250" height="150" />
-    </p></td>
-  <td><p>
-<img src="/file3/3.jpeg" width="250" height="150" />
-    </p></td>
-</tr>
-<tr>
-  <td align=center>a</td>
-  <td>b</td>
-  <td>c</td>
-</tr>
-</table>
+  <div style="background-color: rgba(0,0,0,.05); padding-top: 5px; padding-bottom: 5px;" >
+    <h3 class="subtitle_h3">1. Indoor Scenes </h3>
+    <TABLE align="left" border=0 width="920" style="padding-left: 50px;padding-right: 50px;">
+      <TR> 
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-gt-04.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-occ-04.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-recon-04.gif"></TD>
+        <TD width="120" align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-gt-05.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-occ-05.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-recon-05.gif"></TD>
+      </TR>
+      <TR> 
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+        <TD width="120" align="center" class="caption_p">  </TD>
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+      </TR>
+    </TABLE>
+    <TABLE align="left" border=0 width="920" style="padding-left: 50px;padding-right: 50px;">
+      <TR> 
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-gt-01.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-occ-01.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-recon-01.gif"></TD>
+        <TD width="120" align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-gt-02.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-occ-02.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-recon-02.gif"></TD>
+      </TR>
+      <TR> 
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+        <TD width="120" align="center" class="caption_p">  </TD>
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+      </TR>
+    </TABLE>
+    <TABLE align="left" border=0 width="920" style="padding-left: 50px;padding-right: 50px;">
+      <TR> 
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-gt-06.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-occ-06.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-recon-06.gif"></TD>
+        <TD width="120" align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-gt-03.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-occ-03.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-recon-03.gif"></TD>
+      </TR>
+      <TR> 
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+        <TD width="120" align="center" class="caption_p">  </TD>
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+      </TR>
+    </TABLE>
 
+    <p class="empty_line"> &nbsp;</p>
+    <h3 align="center" class="subtitle_h3" > 2. Outdoor Scenes </h3>
+    <TABLE align="left" border=0 width="920" style="padding-left: 50px;padding-right: 50px;">
+      <TR> 
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-gt-01.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-occ-01.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-recon-01.gif"></TD>
+        <TD width="120" align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-gt-02.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-occ-02.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-recon-02.gif"></TD>
+      </TR>
+      <TR> 
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+        <TD width="120" align="center" class="caption_p">  </TD>
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+      </TR>
+    </TABLE>
+    <TABLE align="left" border=0 width="920" style="padding-left: 50px;padding-right: 50px;">
+      <TR> 
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-gt-03.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-occ-03.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-recon-03.gif"></TD>
+        <TD width="120" align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-gt-05.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-occ-05.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-recon-05.gif"></TD>
+      </TR>
+      <TR> 
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+        <TD width="120" align="center" class="caption_p">  </TD>
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+      </TR>
+    </TABLE>
+    <TABLE align="left" border=0 width="920" style="padding-left: 50px;padding-right: 50px;">
+      <TR> 
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-gt-04.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-occ-04.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-recon-04.gif"></TD>
+        <TD width="120" align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-gt-06.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-occ-06.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-recon-06.gif"></TD>
+      </TR>
+      <TR> 
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+        <TD width="120" align="center" class="caption_p">  </TD>
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+      </TR>
+    </TABLE>
+
+
+    <p class="empty_line"> &nbsp;</p>
+    <h3 class="subtitle_h3">3. Extreme Lighting Scenes </h3>
+    <TABLE align="left" border=0 width="920" style="padding-left: 50px;padding-right: 50px;">
+      <TR> 
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/ex-gt-01.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/ex-occ-01.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/ex-recon-01.gif"></TD>
+        <TD width="120" align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/ex-gt-02.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/ex-occ-02.png"></TD>
+        <TD width="150" align="center"><img class="styled_img"  src="E-SAI/ex-recon-02.gif"></TD>
+      </TR>
+      <TR> 
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+        <TD width="120" align="center" class="caption_p">  </TD>
+        <TD width="150" align="center" class="caption_p">Reference</TD>
+        <TD width="150" align="center" class="caption_p">Occluded view</TD>
+        <TD width="150" align="center" class="caption_p">Reconstruction</TD>
+      </TR>
+    </TABLE>
+    <p class="empty_line"> &nbsp;</p>
+
+  </div>
+
+</div>
+
+
+
+<!-- Citation -->
+<div align=center class="container">
+    <h2 class="styled_h2"> - Citation - </h2>
+    <div style="background-color: rgba(0,0,0,.05); padding-top: 5px; padding-bottom: 5px;" >
+    <p style="padding-left: 50px;" class="citation" align="left">  @inproceedings{zhang2021event,<br> &nbsp;title={Event-based Synthetic Aperture Imaging with a Hybrid Network},<br> &nbsp;author={Zhang, Xiang and Liao, Wei and Yu, Lei and Yang, Wen and Xia, Gui-Song},<br> &nbsp;year={2021},<br> &nbsp;booktitle={CVPR},<br>}</p>
+</div>
+</div>
+
+</body>
 </html>
