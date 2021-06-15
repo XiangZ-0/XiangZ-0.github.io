@@ -77,7 +77,7 @@
 <body>
 <!-- Title -->
 <h1 class="styled_h1"> Event-based Synthetic Aperture Imaging with a Hybrid Network </h1>
-  <h3 align="center"> CVPR 2021 Oral </h3>
+  <h3 align="center"> CVPR 2021 </h3>
   
 <!-- AuthorList -->
 <TABLE align="center" border=0 width="600">
@@ -110,7 +110,7 @@ Gui-Song Xia
 </TABLE>
 
 <p align=center > Wuhan University </p>
-<p align=center style="font-size: 12px;"> * Denotes Equal Contribution &nbsp; &nbsp; &dagger; Denotes Corresponding Author  </p>
+<p align=center style="font-size: 12px;"> * Equal Contribution &nbsp; &nbsp; &dagger; Corresponding Author  </p>
  <br>
 
 
@@ -142,7 +142,7 @@ Gui-Song Xia
 
 <!-- Video -->
 <div align=center class="container">
-    <h2 class="styled_h2"> - Overview Video - </h2>
+    <!-- <h2 class="styled_h2"> - Overview Video - </h2> -->
     <div class="video" style="background-color: rgba(0,0,0,.05)">
       <iframe width="100%" height="100%" src="https://www.youtube.com/embed/a81xBe2ZX_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
@@ -150,7 +150,7 @@ Gui-Song Xia
 
 <!-- Abstract -->
 <div align=center class="container">
-    <h2 class="styled_h2"> - Abstract - </h2>
+    <h2 class="styled_h2"> Abstract </h2>
     <div style="background-color: rgba(0,0,0,.05); padding-top: 5px; padding-bottom: 5px;" >
     <p class="styled_p" align=left>  Synthetic aperture imaging (SAI) is able to achieve the see through effect by blurring out the off-focus foreground occlusions and reconstructing the in-focus occluded targets from multi-view images. However, very dense occlusions and extreme lighting conditions may bring significant disturbances to the SAI based on conventional frame-based cameras, leading to performance degeneration. To address these problems, we propose a novel SAI system based on the event camera which can produce asynchronous events with extremely low latency and high dynamic range. Thus, it can eliminate the interference of dense occlusions by measuring with almost continuous views, and simultaneously tackle the over/under exposure problems. To reconstruct the occluded targets, we propose a hybrid encoder-decoder network composed of spiking neural networks (SNNs) and convolutional neural networks (CNNs). In the hybrid network, the spatio-temporal information of the collected events is first encoded by SNN layers, and then transformed to the visual image of the occluded targets by a style-transfer CNN decoder. Through experiments, the proposed method shows remarkable performance in dealing with very dense occlusions and extreme lighting conditions, and high quality visual images can be reconstructed using pure event data.</p>
     <img src="E-SAI/pipeline.png" style="width: 900px;height:203px" alt="paper">
@@ -159,7 +159,7 @@ Gui-Song Xia
 
 <!-- Results -->
 <div align=center class="container">
-    <h2 class="styled_h2"> - Results - </h2>
+    <h2 class="styled_h2"> Results </h2>
 
   <div style="background-color: rgba(0,0,0,.05); padding-top: 5px; padding-bottom: 5px;" >
     <p class="styled_p">Here are the results on our event-based SAI dataset including indoor scenes, outdoor scenes and extreme lighting scenes,
@@ -175,7 +175,7 @@ Gui-Song Xia
         <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-occ-05.png"></TD>
         <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-recon-05.gif"></TD>
       </TR>
-      <TR> 
+      <!-- <TR> 
         <TD width="150" align="center" class="caption_p">Reference</TD>
         <TD width="150" align="center" class="caption_p">Occluded view</TD>
         <TD width="150" align="center" class="caption_p">Reconstruction</TD>
@@ -183,7 +183,7 @@ Gui-Song Xia
         <TD width="150" align="center" class="caption_p">Reference</TD>
         <TD width="150" align="center" class="caption_p">Occluded view</TD>
         <TD width="150" align="center" class="caption_p">Reconstruction</TD>
-      </TR>
+      </TR> -->
     </TABLE>
     <TABLE align="left" border=0 width="920" style="padding-left: 50px;padding-right: 50px;">
       <TR> 
@@ -195,7 +195,7 @@ Gui-Song Xia
         <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-occ-02.png"></TD>
         <TD width="150" align="center"><img class="styled_img"  src="E-SAI/in-recon-02.gif"></TD>
       </TR>
-      <TR> 
+      <!-- <TR> 
         <TD width="150" align="center" class="caption_p">Reference</TD>
         <TD width="150" align="center" class="caption_p">Occluded view</TD>
         <TD width="150" align="center" class="caption_p">Reconstruction</TD>
@@ -203,7 +203,7 @@ Gui-Song Xia
         <TD width="150" align="center" class="caption_p">Reference</TD>
         <TD width="150" align="center" class="caption_p">Occluded view</TD>
         <TD width="150" align="center" class="caption_p">Reconstruction</TD>
-      </TR>
+      </TR> -->
     </TABLE>
     <TABLE align="left" border=0 width="920" style="padding-left: 50px;padding-right: 50px;">
       <TR> 
@@ -238,7 +238,7 @@ Gui-Song Xia
         <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-occ-02.png"></TD>
         <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-recon-02.gif"></TD>
       </TR>
-      <TR> 
+      <!-- <TR> 
         <TD width="150" align="center" class="caption_p">Reference</TD>
         <TD width="150" align="center" class="caption_p">Occluded view</TD>
         <TD width="150" align="center" class="caption_p">Reconstruction</TD>
@@ -246,7 +246,7 @@ Gui-Song Xia
         <TD width="150" align="center" class="caption_p">Reference</TD>
         <TD width="150" align="center" class="caption_p">Occluded view</TD>
         <TD width="150" align="center" class="caption_p">Reconstruction</TD>
-      </TR>
+      </TR> -->
     </TABLE>
     <TABLE align="left" border=0 width="920" style="padding-left: 50px;padding-right: 50px;">
       <TR> 
@@ -258,7 +258,7 @@ Gui-Song Xia
         <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-occ-05.png"></TD>
         <TD width="150" align="center"><img class="styled_img"  src="E-SAI/out-recon-05.gif"></TD>
       </TR>
-      <TR> 
+      <!-- <TR> 
         <TD width="150" align="center" class="caption_p">Reference</TD>
         <TD width="150" align="center" class="caption_p">Occluded view</TD>
         <TD width="150" align="center" class="caption_p">Reconstruction</TD>
@@ -266,7 +266,7 @@ Gui-Song Xia
         <TD width="150" align="center" class="caption_p">Reference</TD>
         <TD width="150" align="center" class="caption_p">Occluded view</TD>
         <TD width="150" align="center" class="caption_p">Reconstruction</TD>
-      </TR>
+      </TR> -->
     </TABLE>
     <TABLE align="left" border=0 width="920" style="padding-left: 50px;padding-right: 50px;">
       <TR> 
@@ -322,7 +322,7 @@ Gui-Song Xia
 
 <!-- Citation -->
 <div align=center class="container">
-    <h2 class="styled_h2"> - Citation - </h2>
+    <h2 class="styled_h2"> Citation </h2>
     <div style="background-color: rgba(0,0,0,.05); padding-top: 5px; padding-bottom: 5px;" >
     <p style="padding-left: 50px;" class="citation" align="left">  @inproceedings{zhang2021event,<br> &nbsp;title={Event-based Synthetic Aperture Imaging with a Hybrid Network},<br> &nbsp;author={Zhang, Xiang and Liao, Wei and Yu, Lei and Yang, Wen and Xia, Gui-Song},<br> &nbsp;year={2021},<br> &nbsp;booktitle={CVPR},<br>}</p>
 </div>
