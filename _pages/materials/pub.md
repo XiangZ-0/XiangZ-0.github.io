@@ -8,7 +8,8 @@
 Lei Yu<sup>†</sup>, **Xiang Zhang**, Wei Liao, Wen Yang, Gui-Song Xia
 
  \[[Code](https://github.com/dvs-whu/E-SAI)\] \[[Dataset](https://drive.google.com/drive/folders/1JVA06QYaQwG88BcAIJwjUGjyItR_UDjC)\] \[[Bilibili](https://www.bilibili.com/video/BV1JL411M7n5/?spm_id_from=333.999.0.0&vd_source=019e4ae5ab90b4c54207081152e55aae)\]
-- Seeing through dense occlusions even under extreme lighting conditions.
+- An event-based synthetic aperture imaging (E-SAI) algorithm is proposed to see through dense occlusions even under extreme lighting conditions. 
+- A hybrid network composed of an spiking encoder and a convolutional decoder is designed to mitigate the disturbances from occlusions and guarantee the overall reconstruction performance.
 </div>
 </div>
 
@@ -21,7 +22,9 @@ Lei Yu<sup>†</sup>, **Xiang Zhang**, Wei Liao, Wen Yang, Gui-Song Xia
 **Xiang Zhang**, Lei Yu<sup>†</sup>
 
 \[[Code](https://github.com/XiangZ-0/EVDI)\] \[[Youtube](https://www.youtube.com/watch?v=ih7o5PawSCw&t=1s)\]
-- Self-supervised video deblurring and interpolation with events. 
+- We present a unified framework for event-based video deblurring and interpolation (EVDI). 
+- By utilizing the constraints between cross-modal frames and events, a fully self-supervised learning method is proposed to enable network training with real-world data without ground-truth images.
+
 </div>
 </div>
 
