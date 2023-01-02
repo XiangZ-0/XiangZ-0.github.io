@@ -1,4 +1,5 @@
 # 🔥 News
+- *2022.12*: &nbsp;🎉 One paper is accepted by IEEE TSP 2022!
 - *2022.12*: &nbsp;🎉 One paper is accepted by IEEE TPAMI 2022!
 - *2022.04*: &nbsp;🛠️ The code of our [EVDI](https://github.com/XiangZ-0/EVDI) is released.
 - *2022.03*: &nbsp;🛠️ The code of our [EF-SAI](https://github.com/smjsc/EF-SAI) is released.

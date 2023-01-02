@@ -28,6 +28,8 @@ Lei Yu<sup>†</sup>, **Xiang Zhang**, Wei Liao, Wen Yang, Gui-Song Xia
 </div>
 </div>
 
+- Spiking Sparse Recovery with Non-convex Penalties, **Xiang Zhang**, Lei Yu<sup>†</sup>, Gang Zheng, Yonina C. Eldar, **IEEE TSP 2022**
+
 - [Synthetic Aperture Imaging with Events and Frames](https://openaccess.thecvf.com/content/CVPR2022/papers/Liao_Synthetic_Aperture_Imaging_With_Events_and_Frames_CVPR_2022_paper.pdf), Wei Liao<sup>\*</sup>, **Xiang Zhang**<sup>\*</sup>, Lei Yu<sup>†</sup>, Shijie Lin, Wen Yang, Ning Qiao, **CVPR 2022** \| \[[Code](https://github.com/smjsc/EF-SAI)\] \[[Dataset](https://onedrive.live.com/?authkey=%21AMvAPOnuudsYx1I&id=7ABD0A750B262518%214850&cid=7ABD0A750B262518)\]
 
 - [Event-based Synthetic Aperture Imaging with a Hybrid Network](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Event-Based_Synthetic_Aperture_Imaging_With_a_Hybrid_Network_CVPR_2021_paper.pdf), **Xiang Zhang**<sup>\*</sup>, Wei Liao<sup>\*</sup>, Lei Yu<sup>†</sup>, Wen Yang, Gui-Song Xia, **CVPR 2021** <font color='red'> (Oral, Best Paper Candidate) </font> \| \[[Code](https://github.com/dvs-whu/E-SAI)\] \[[Dataset](https://drive.google.com/drive/folders/1JVA06QYaQwG88BcAIJwjUGjyItR_UDjC)\] \[[Youtube](https://www.youtube.com/watch?v=a81xBe2ZX_8)\]  
