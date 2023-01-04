@@ -23,7 +23,7 @@ Lei Yu<sup>†</sup>, **Xiang Zhang**, Wei Liao, Wen Yang, Gui-Song Xia
 
 \[[Code](https://github.com/XiangZ-0/EVDI)\] \[[Youtube](https://www.youtube.com/watch?v=ih7o5PawSCw&t=1s)\]
 - We present a unified framework for event-based video deblurring and interpolation (EVDI). 
-- By utilizing the constraints between cross-modal frames and events, a fully self-supervised learning method is proposed to enable network training with real-world data without ground-truth images.
+- By utilizing the constraints between cross-modal frames and events, a fully self-supervised learning method is proposed to enable network training with real-world data without requiring ground-truth images.
 
 </div>
 </div>
