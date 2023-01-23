@@ -28,6 +28,8 @@ Lei Yu<sup>†</sup>, **Xiang Zhang**, Wei Liao, Wen Yang, Gui-Song Xia
 </div>
 </div>
 
+- Learning to Super-Resolve Blurry Images with Events, Lei Yu<sup>†</sup>, Bishan Wang, **Xiang Zhang**, Haijian Zhang, Wen Yang, Jianzhuang Liu, Gui-Song Xia, **IEEE TPAMI 2023**
+
 - [Spiking Sparse Recovery with Non-convex Penalties](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10007054), **Xiang Zhang**, Lei Yu<sup>†</sup>, Gang Zheng, Yonina C. Eldar, **IEEE TSP 2022**
 
 - [Synthetic Aperture Imaging with Events and Frames](https://openaccess.thecvf.com/content/CVPR2022/papers/Liao_Synthetic_Aperture_Imaging_With_Events_and_Frames_CVPR_2022_paper.pdf), Wei Liao<sup>\*</sup>, **Xiang Zhang**<sup>\*</sup>, Lei Yu<sup>†</sup>, Shijie Lin, Wen Yang, Ning Qiao, **CVPR 2022** \| \[[Code](https://github.com/smjsc/EF-SAI)\] \[[Dataset](https://onedrive.live.com/?authkey=%21AMvAPOnuudsYx1I&id=7ABD0A750B262518%214850&cid=7ABD0A750B262518)\]
