@@ -28,7 +28,7 @@ Lei Yu<sup>†</sup>, **Xiang Zhang**, Wei Liao, Wen Yang, Gui-Song Xia
 </div>
 </div>
 
-- Learning to Super-Resolve Blurry Images with Events, Lei Yu<sup>†</sup>, Bishan Wang, **Xiang Zhang**, Haijian Zhang, Wen Yang, Jianzhuang Liu, Gui-Song Xia, **IEEE TPAMI 2023**
+- [Learning to Super-Resolve Blurry Images with Events](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029887), Lei Yu<sup>†</sup>, Bishan Wang, **Xiang Zhang**, Haijian Zhang, Wen Yang, Jianzhuang Liu, Gui-Song Xia, **IEEE TPAMI 2023**
 
 - [Spiking Sparse Recovery with Non-convex Penalties](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10007054), **Xiang Zhang**, Lei Yu<sup>†</sup>, Gang Zheng, Yonina C. Eldar, **IEEE TSP 2022**
 
