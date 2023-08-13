@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiang Zhang"
-description              : "A master student who loves exploring everything related to machine intelligence :)"
+description              : "A PhD student who loves exploring everything related to machine intelligence :)"
 repository               : "XiangZ-0.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ baidu_site_verification  :  "code-7mFZDHRatz" # get baidu_site_verification from
 author:
   name             : "Xiang Zhang"
   avatar           : "images/me.jpg" #"images/android-chrome-512x512.png"
-  bio              : "Wuhan University"
-  location         : "Wuhan, China"
+  bio              : "ETH Zurich"
+  location         : "Zurich, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AVnXU-cAAAAJ&hl=en"
