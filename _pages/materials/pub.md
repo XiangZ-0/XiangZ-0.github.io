@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='_pages/materials/imgs/GEM.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generalizing Event-Based Motion Deblurring in Real-World Scenarios](https://1drv.ms/b/s!AgjOZB4WHoLekHqoCEgOOHtvutuo?e=dZiugh)
+[Generalizing Event-Based Motion Deblurring in Real-World Scenarios](https://arxiv.org/pdf/2308.05932.pdf)
 
 **<u>Xiang Zhang</u>**, Lei Yu<sup>†</sup>, Wen Yang, Jianzhuang Liu, Gui-Song Xia
 
