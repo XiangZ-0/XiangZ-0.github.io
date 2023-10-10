@@ -11,7 +11,6 @@
 - *2021.03*: &nbsp;🎉 One paper is accepted by CVPR 2021! -->
 
 <div style="overflow: auto; height: 180px;">
-<ul>
 <li> <em>2023.08</em>: &nbsp;🛠️ The code of our <a href="https://github.com/XiangZ-0/GEM">GEM</a> is released. </li>
 <li> <em>2023.07</em>: &nbsp;🎉 One paper is accepted by ICCV 2023! </li>
 <li> <em>2023.01</em>: &nbsp;🎉 One paper is accepted by IEEE TPAMI 2023! </li>

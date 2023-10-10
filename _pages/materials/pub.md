@@ -7,7 +7,7 @@
 
 **<u>Xiang Zhang</u>**, Lei Yu<sup>†</sup>, Wen Yang, Jianzhuang Liu, Gui-Song Xia
 
- \[[Code](https://github.com/XiangZ-0/GEM)\] \[[Dataset](https://onedrive.live.com/redir?resid=DE821E161E64CE08!1507&authkey=!AMyYhDNrRw9pZkA&ithint=folder&e=acFSD4)\]
+ \[[Code](https://github.com/XiangZ-0/GEM)\] \[[Dataset](https://onedrive.live.com/redir?resid=DE821E161E64CE08!1507&authkey=!AMyYhDNrRw9pZkA&ithint=folder&e=acFSD4)\] \[[Youtube](https://www.youtube.com/watch?v=Otme-tIWfAs)\]
 - A scale-aware network is designed to allow flexible setups of input spatial resolutions and enable learning from different temporal scales of motion blur.
 - A self-supervised learning framework is proposed for model training with real-world data and performance generalization in spatial and temporal domains.
 - A multi-scale real-world blurry dataset (MS-RBD) is constructed to facilitate the evaluation of deblurring performance in real-world scenarios.

@@ -27,3 +27,5 @@ group :jekyll_plugins do
   gem "tzinfo", "~> 1.2"
   gem 'tzinfo-data'
 end
+
+gem "webrick", "~> 1.8"
