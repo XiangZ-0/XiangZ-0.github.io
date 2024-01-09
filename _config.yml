@@ -24,8 +24,8 @@ baidu_site_verification  :  "code-7mFZDHRatz" # get baidu_site_verification from
 author:
   name             : "Xiang Zhang"
   avatar           : "images/me.jpg" #"images/android-chrome-512x512.png"
-  bio              : "ETH Zurich"
-  location         : "Zurich, Switzerland"
+  bio              : "ETH Zürich"
+  location         : "Zürich, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AVnXU-cAAAAJ&hl=en"

@@ -20,6 +20,7 @@ redirect_from:
 {% include_relative materials/pub.md %}
 {% include_relative materials/talks.md %}
 {% include_relative materials/service.md %}
+{% include_relative materials/misc.md %}
 
 <!-- <span class='anchor' id='about-me'></span> -->
 

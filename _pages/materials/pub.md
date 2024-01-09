@@ -43,13 +43,13 @@ Lei Yu<sup>†</sup>, **<u>Xiang Zhang</u>**, Wei Liao, Wen Yang, Gui-Song Xia
 </div>
 </div>
 
-- [Learning to Super-Resolve Blurry Images with Events](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029887), Lei Yu<sup>†</sup>, Bishan Wang, **<u>Xiang Zhang</u>**, Haijian Zhang, Wen Yang, Jianzhuang Liu, Gui-Song Xia, **IEEE TPAMI 2023**
+- `TPAMI 2023` [Learning to Super-Resolve Blurry Images with Events](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029887), Lei Yu<sup>†</sup>, Bishan Wang, **<u>Xiang Zhang</u>**, Haijian Zhang, Wen Yang, Jianzhuang Liu, Gui-Song Xia. \| \[[Code](https://github.com/ShinyWang33/eSL-Net-Plusplus)\]
 
-- [Spiking Sparse Recovery with Non-convex Penalties](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10007054), **<u>Xiang Zhang</u>**, Lei Yu<sup>†</sup>, Gang Zheng, Yonina C. Eldar, **IEEE TSP 2022**
+- `TSP 2022` [Spiking Sparse Recovery with Non-convex Penalties](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10007054), **<u>Xiang Zhang</u>**, Lei Yu<sup>†</sup>, Gang Zheng, Yonina C. Eldar.
 
-- [Synthetic Aperture Imaging with Events and Frames](https://openaccess.thecvf.com/content/CVPR2022/papers/Liao_Synthetic_Aperture_Imaging_With_Events_and_Frames_CVPR_2022_paper.pdf), Wei Liao<sup>\*</sup>, **<u>Xiang Zhang</u>**<sup>\*</sup>, Lei Yu<sup>†</sup>, Shijie Lin, Wen Yang, Ning Qiao, **CVPR 2022** \| \[[Code](https://github.com/smjsc/EF-SAI)\] \[[Dataset](https://onedrive.live.com/?authkey=%21AMvAPOnuudsYx1I&id=7ABD0A750B262518%214850&cid=7ABD0A750B262518)\]
+- `CVPR 2022` [Synthetic Aperture Imaging with Events and Frames](https://openaccess.thecvf.com/content/CVPR2022/papers/Liao_Synthetic_Aperture_Imaging_With_Events_and_Frames_CVPR_2022_paper.pdf), Wei Liao<sup>\*</sup>, **<u>Xiang Zhang</u>**<sup>\*</sup>, Lei Yu<sup>†</sup>, Shijie Lin, Wen Yang, Ning Qiao. \| \[[Code](https://github.com/smjsc/EF-SAI)\] \[[Dataset](https://onedrive.live.com/?authkey=%21AMvAPOnuudsYx1I&id=7ABD0A750B262518%214850&cid=7ABD0A750B262518)\]
 
-- [Event-based Synthetic Aperture Imaging with a Hybrid Network](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Event-Based_Synthetic_Aperture_Imaging_With_a_Hybrid_Network_CVPR_2021_paper.pdf), **<u>Xiang Zhang</u>**<sup>\*</sup>, Wei Liao<sup>\*</sup>, Lei Yu<sup>†</sup>, Wen Yang, Gui-Song Xia, **CVPR 2021** <font color='red'> (Oral, Best Paper Candidate) </font> \| \[[Code](https://github.com/dvs-whu/E-SAI)\] \[[Dataset](https://drive.google.com/drive/folders/1JVA06QYaQwG88BcAIJwjUGjyItR_UDjC)\] \[[Youtube](https://www.youtube.com/watch?v=a81xBe2ZX_8)\]  
+- `CVPR 2021` [Event-based Synthetic Aperture Imaging with a Hybrid Network](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Event-Based_Synthetic_Aperture_Imaging_With_a_Hybrid_Network_CVPR_2021_paper.pdf), **<u>Xiang Zhang</u>**<sup>\*</sup>, Wei Liao<sup>\*</sup>, Lei Yu<sup>†</sup>, Wen Yang, Gui-Song Xia. <font color='red'> (Oral, Best Paper Candidate) </font> \| \[[Code](https://github.com/dvs-whu/E-SAI)\] \[[Dataset](https://drive.google.com/drive/folders/1JVA06QYaQwG88BcAIJwjUGjyItR_UDjC)\] \[[Youtube](https://www.youtube.com/watch?v=a81xBe2ZX_8)\]  
 
 <sup>\*</sup> means equal contribution and <sup>†</sup> indicates my supervisor.
 
