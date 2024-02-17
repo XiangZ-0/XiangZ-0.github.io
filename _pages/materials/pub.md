@@ -43,6 +43,8 @@ Lei Yu<sup>†</sup>, **<u>Xiang Zhang</u>**, Wei Liao, Wen Yang, Gui-Song Xia
 </div>
 </div>
 
+- `TIP 2024` [Learning to Super-Resolve Blurry Images with Events](https://ieeexplore.ieee.org/document/10438401), Shijie Lin, **<u>Xiang Zhang</u>**, Lei Yang, Lei Yu, Bin Zhou, Xiaowei Luo, Wenping Wang, Jia Pan. \| \[[Code&Dataset](https://github.com/eleboss/EBR)\] \[[Youtube](https://www.youtube.com/watch?v=fbdvowAHkn0)\] \[[Bilibili](https://www.bilibili.com/video/BV1ws4y1X7Sh/?vd_source=019e4ae5ab90b4c54207081152e55aae)\]
+
 - `TPAMI 2023` [Learning to Super-Resolve Blurry Images with Events](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029887), Lei Yu<sup>†</sup>, Bishan Wang, **<u>Xiang Zhang</u>**, Haijian Zhang, Wen Yang, Jianzhuang Liu, Gui-Song Xia. \| \[[Code](https://github.com/ShinyWang33/eSL-Net-Plusplus)\]
 
 - `TSP 2022` [Spiking Sparse Recovery with Non-convex Penalties](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10007054), **<u>Xiang Zhang</u>**, Lei Yu<sup>†</sup>, Gang Zheng, Yonina C. Eldar.
