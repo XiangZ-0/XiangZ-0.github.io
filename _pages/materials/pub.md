@@ -43,7 +43,9 @@ Lei Yu<sup>†</sup>, **<u>Xiang Zhang</u>**, Wei Liao, Wen Yang, Gui-Song Xia
 </div>
 </div>
 
-- `TIP 2024` [Neuromorphic Synergy for Video Binarization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10438401), Shijie Lin, **<u>Xiang Zhang</u>**, Lei Yang, Lei Yu, Bin Zhou, Xiaowei Luo, Wenping Wang, Jia Pan. \| \[[Code&Dataset](https://github.com/eleboss/EBR)\] \[[Youtube](https://www.youtube.com/watch?v=fbdvowAHkn0)\] \[[Bilibili](https://www.bilibili.com/video/BV1ws4y1X7Sh/?vd_source=019e4ae5ab90b4c54207081152e55aae)\]
+- `TPAMI 2024` [CrossZoom: Simultaneous Motion Deblurring and Event Super-Resolving](https://arxiv.org/pdf/2309.16949), Chi Zhang, **<u>Xiang Zhang</u>**, Mingyuan Lin, Cheng Li, Chu He, Wen Yang, Gui-Song Xia, Lei Yu. \| \[[Website](https://bestrivenzc.github.io/CZ-Net/)\]
+
+- `TIP 2024` [Neuromorphic Synergy for Video Binarization](https://ieeexplore.ieee.org/document/10438401), Shijie Lin, **<u>Xiang Zhang</u>**, Lei Yang, Lei Yu, Bin Zhou, Xiaowei Luo, Wenping Wang, Jia Pan. \| \[[Code&Dataset](https://github.com/eleboss/EBR)\] \[[Youtube](https://www.youtube.com/watch?v=fbdvowAHkn0)\] \[[Bilibili](https://www.bilibili.com/video/BV1ws4y1X7Sh/?vd_source=019e4ae5ab90b4c54207081152e55aae)\]
 
 - `TPAMI 2023` [Learning to Super-Resolve Blurry Images with Events](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029887), Lei Yu<sup>†</sup>, Bishan Wang, **<u>Xiang Zhang</u>**, Haijian Zhang, Wen Yang, Jianzhuang Liu, Gui-Song Xia. \| \[[Code](https://github.com/ShinyWang33/eSL-Net-Plusplus)\]
 
