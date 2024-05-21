@@ -1,6 +1,6 @@
 <span class='anchor' id='about-me'></span>
 
-# 🤗 About Me 
+# 👋 Hi there!
 I am currently a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch/) of ETH Zürich and [DisneyResearch|Studios](https://studios.disneyresearch.com/), supervised by [Prof. Markus Gross](https://cgl.ethz.ch/people/grossm/) and [Dr. Christopher Schroers](https://schroers-c.github.io/web/). I also spent 4 months working on low-level vision at the [Computer Vision Lab](https://vision.ee.ethz.ch/), ETH Zürich. Before that, I received my M.E. and B.E. degrees respectively in 2023 and 2020 from the [Electronic Information School](http://eis.whu.edu.cn/index.shtml) of Wuhan University, where I work closely with [Prof. Lei Yu](https://dvs-whu.cn/) on event-based vision. I am a lifelong learner with broad interests, including computer vision, signal processing, and neuromorphic computing. I am particularly interested in achieving robust perception in complex environments for real-world applications.
 
 
