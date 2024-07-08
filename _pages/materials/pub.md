@@ -1,5 +1,19 @@
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='_pages/materials/imgs/HiTSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HiT-SR: Hierarchical Transformer for Efficient Image Super-Resolution](https://1drv.ms/b/c/de821e161e64ce08/EVsrOr1-PFFMsXxiRHEmKeoBSH6DPkTuN2GRmEYsl9bvDQ?e=f9wGUO)
+
+**<u>Xiang Zhang</u>**, Yulun Zhang, Fisher Yu
+
+ \[[Code](https://github.com/XiangZ-0/HiT-SR)\] \[[Supp](https://1drv.ms/b/c/de821e161e64ce08/EYmRy-QOjPdFsMRT_ElKQqABYzoIIfDtkt9hofZ5YY_GjQ?e=2Iapqf)\] 
+- We propose a simple yet effective strategy (HiT-SR) to convert popular transformer-based SR methods to our hierarchical transformers, boosting SR performance by exploiting multi-scale features and long-range dependencies.
+- We design a spatial-channel correlation method to efficiently leverage spatial and channel features with linear computational complexity to window sizes, enabling utilization of large hierarchical windows, e.g., $64\times64$ windows.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='_pages/materials/imgs/GEM.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
