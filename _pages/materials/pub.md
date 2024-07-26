@@ -1,5 +1,18 @@
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='_pages/materials/imgs/BetterDepth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BetterDepth: Plug-and-Play Diffusion Refiner for Zero-Shot Monocular Depth Estimation](https://arxiv.org/pdf/2407.17952)
+
+**<u>Xiang Zhang</u>**, Bingxin Ke, Hayko Riemenschneider, Nando Metzger, Anton Obukhov, Markus Gross<sup>†</sup>, Konrad Schindler, Christopher Schroers<sup>†</sup>
+
+ \[[arXiv](https://arxiv.org/pdf/2407.17952)\] 
+- We propose BetterDepth to boost zero-shot MDE methods with plug-and-play diffusion refiners, achieving robust affine-invariant MDE performance with fine-grained details.
+- We design global pre-alignment and local patch masking strategies to enable learning detail refinement from small-scale synthetic datasets while preserving rich prior knowledge from pre-trained MDE models for zero-shot transfer.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='_pages/materials/imgs/HiTSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
