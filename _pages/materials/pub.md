@@ -13,7 +13,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='_pages/materials/imgs/HiTSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 - Oral</div><img src='_pages/materials/imgs/HiTSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HiT-SR: Hierarchical Transformer for Efficient Image Super-Resolution](https://1drv.ms/b/c/de821e161e64ce08/EVsrOr1-PFFMsXxiRHEmKeoBSH6DPkTuN2GRmEYsl9bvDQ?e=f9wGUO)

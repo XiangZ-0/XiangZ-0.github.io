@@ -11,7 +11,7 @@
 - *2021.03*: &nbsp;🎉 One paper is accepted by CVPR 2021! -->
 
 <div style="overflow: auto; height: 180px;">
-<li> <em>2024.07</em>: &nbsp;🎉 One paper is accepted by ECCV 2024! Code, models, and results of <a href="https://github.com/XiangZ-0/HiT-SR">HiT-SR</a> are released! </li>
+<li> <em>2024.07</em>: &nbsp;🎉 One paper is accepted by ECCV 2024 (<b>Oral</b>)! Code, models, and results of <a href="https://github.com/XiangZ-0/HiT-SR">HiT-SR</a> are released! </li>
 <li> <em>2024.05</em>: &nbsp;🎉 One paper is accepted by IEEE TPAMI 2024! Congrats to Chi Zhang! </li>
 <li> <em>2024.02</em>: &nbsp;🎉 One paper is accepted by IEEE TIP 2024! Congrats to Shijie Lin! </li>
 <li> <em>2023.08</em>: &nbsp;🛠️ The code of our <a href="https://github.com/XiangZ-0/GEM">GEM</a> is released. </li>
@@ -24,7 +24,7 @@
 <li> <em>2022.03</em>: &nbsp;🎉 Two papers are accepted by CVPR 2022! Congrats to Wei Liao! </li>
 <li> <em>2021.07</em>: &nbsp;🛠️ The code of our <a href="https://github.com/dvs-whu/E-SAI">E-SAI</a> is released. </li>
 <li> <em>2021.06</em>: &nbsp;🍾 Our work is selected as one of the <a href="https://cvpr2021.thecvf.com/node/290">best paper candidates</a> by CVPR 2021! </li>
-<li> <em>2021.03</em>: &nbsp;🎉 One paper is accepted by CVPR 2021! </li>
+<li> <em>2021.03</em>: &nbsp;🎉 One paper is accepted by CVPR 2021 (<b>Oral</b>)! </li>
 <!-- </ul> -->
 </div>
 
