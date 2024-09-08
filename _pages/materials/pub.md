@@ -20,7 +20,7 @@
 
 **<u>Xiang Zhang</u>**, Yulun Zhang, Fisher Yu
 
- \[[Code](https://github.com/XiangZ-0/HiT-SR)\] \[[Supp](https://1drv.ms/b/c/de821e161e64ce08/EYmRy-QOjPdFsMRT_ElKQqABYzoIIfDtkt9hofZ5YY_GjQ?e=2Iapqf)\] 
+ \[[Code](https://github.com/XiangZ-0/HiT-SR)\] \[[Supp](https://1drv.ms/b/c/de821e161e64ce08/EYmRy-QOjPdFsMRT_ElKQqABYzoIIfDtkt9hofZ5YY_GjQ?e=2Iapqf)\] \[[Video](https://www.youtube.com/watch?v=9rO0pjmmjZg)\] 
 - We propose a simple yet effective strategy (HiT-SR) to convert popular transformer-based SR methods to our hierarchical transformers, boosting SR performance by exploiting multi-scale features and long-range dependencies.
 - We design a spatial-channel correlation method to efficiently leverage spatial and channel features with linear computational complexity to window sizes, enabling utilization of large hierarchical windows, e.g., $64\times64$ windows.
 </div>
