@@ -11,6 +11,7 @@
 - *2021.03*: &nbsp;🎉 One paper is accepted by CVPR 2021! -->
 
 <div style="overflow: auto; height: 180px;">
+<li> <em>2024.09</em>: &nbsp;🎉 One paper is accepted by NeurIPS 2024! </li>
 <li> <em>2024.07</em>: &nbsp;🎉 One paper is accepted by ECCV 2024 (<b>Oral</b>)! Code, models, and results of <a href="https://github.com/XiangZ-0/HiT-SR">HiT-SR</a> are released! </li>
 <li> <em>2024.05</em>: &nbsp;🎉 One paper is accepted by IEEE TPAMI 2024! Congrats to Chi Zhang! </li>
 <li> <em>2024.02</em>: &nbsp;🎉 One paper is accepted by IEEE TIP 2024! Congrats to Shijie Lin! </li>
