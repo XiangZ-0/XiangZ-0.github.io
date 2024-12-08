@@ -7,7 +7,7 @@
 
 **<u>Xiang Zhang</u>**, Bingxin Ke, Hayko Riemenschneider, Nando Metzger, Anton Obukhov, Markus Gross<sup>†</sup>, Konrad Schindler, Christopher Schroers<sup>†</sup>
 
- \[[arXiv](https://arxiv.org/pdf/2407.17952)\] 
+ \[[arXiv](https://arxiv.org/pdf/2407.17952)\] \[[Video](https://www.youtube.com/watch?v=G99kKe98FTY)\] \[[Poster](https://1drv.ms/b/c/de821e161e64ce08/EVs02tPk_QlKvuGPUP2TxMEBYgQhWoFNrtCRww1LFH0dUQ?e=ib4reO)\] 
 - We propose BetterDepth to boost zero-shot MDE methods with plug-and-play diffusion refiners, achieving robust affine-invariant MDE performance with fine-grained details.
 - We design global pre-alignment and local patch masking strategies to enable learning detail refinement from small-scale synthetic datasets while preserving rich prior knowledge from pre-trained MDE models for zero-shot transfer.
 </div>
