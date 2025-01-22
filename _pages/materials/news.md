@@ -11,7 +11,8 @@
 - *2021.03*: &nbsp;🎉 One paper is accepted by CVPR 2021! -->
 
 <div style="overflow: auto; height: 180px;">
-<li> <em>2024.09</em>: &nbsp;🎉 BetterDepth is accepted by NeurIPS 2024! </li>
+<li> <em>2025.01</em>: &nbsp;🎉 <a href="https://w3un.github.io/selfunroll/">SelfUnroll</a> is accepted by Springer IJCV 2025! Congrats to Mingyuan Lin and Yanggunag Wang! </li>
+<li> <em>2024.09</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2407.17952">BetterDepth</a> is accepted by NeurIPS 2024! </li>
 <li> <em>2024.07</em>: &nbsp;🎉 HiT-SR is accepted by ECCV 2024 (<b>Oral</b>)! <a href="https://github.com/XiangZ-0/HiT-SR">Code, models, and results</a> are released! </li>
 <li> <em>2024.05</em>: &nbsp;🎉 <a href="https://bestrivenzc.github.io/CZ-Net/">CrossZoom</a> is accepted by IEEE TPAMI 2024! Congrats to Chi Zhang! </li>
 <li> <em>2024.02</em>: &nbsp;🎉 <a href="https://github.com/eleboss/EBR">EBR</a> is accepted by IEEE TIP 2024! Congrats to Shijie Lin! </li>
