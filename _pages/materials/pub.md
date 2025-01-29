@@ -70,7 +70,7 @@ Lei Yu<sup>†</sup>, **<u>Xiang Zhang</u>**, Wei Liao, Wen Yang, Gui-Song Xia
 </div>
 </div>
 
-- `IJCV 2025` [Self-Supervised Shutter Unrolling with Events](https://w3un.github.io/selfunroll/), Mingyuan Lin<sup>\*</sup>, Yanggunag Wang<sup>\*</sup>, **<u>Xiang Zhang</u>**, Boxin Shi, Wen Yang, Chu He, Gui-Song Xia, Lei Yu. \| \[[Website](https://w3un.github.io/selfunroll/)\] \[[Code](https://github.com/w3un/selfunroll_code)\] \[[Dataset](https://drive.google.com/drive/folders/1GhUP-dJIQbutI3uipeuGPMJmfA2u-ACR)\] 
+- `IJCV 2025` [Self-Supervised Shutter Unrolling with Events](https://trebuchet.public.springernature.app/get_content/57690a36-b39f-4d81-8024-3576d4af96d6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250129&utm_content=10.1007/s11263-025-02364-z), Mingyuan Lin<sup>\*</sup>, Yanggunag Wang<sup>\*</sup>, **<u>Xiang Zhang</u>**, Boxin Shi, Wen Yang, Chu He, Gui-Song Xia, Lei Yu. \| \[[Website](https://w3un.github.io/selfunroll/)\] \[[Code](https://github.com/w3un/selfunroll_code)\] \[[Dataset](https://drive.google.com/drive/folders/1GhUP-dJIQbutI3uipeuGPMJmfA2u-ACR)\] 
 
 - `TPAMI 2024` [CrossZoom: Simultaneous Motion Deblurring and Event Super-Resolving](https://arxiv.org/pdf/2309.16949), Chi Zhang, **<u>Xiang Zhang</u>**, Mingyuan Lin, Cheng Li, Chu He, Wen Yang, Gui-Song Xia, Lei Yu. \| \[[Website](https://bestrivenzc.github.io/CZ-Net/)\]
 

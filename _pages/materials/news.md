@@ -19,8 +19,8 @@
 <li> <em>2023.08</em>: &nbsp;🛠️ The code of our <a href="https://github.com/XiangZ-0/GEM">GEM</a> is released. </li>
 <li> <em>2023.07</em>: &nbsp;🎉 GEM is accepted by ICCV 2023! </li>
 <li> <em>2023.01</em>: &nbsp;🎉 <a href="https://github.com/ShinyWang33/eSL-Net-Plusplus">eSL-Net++</a> is accepted by IEEE TPAMI 2023! Congrats to Bishan Wang! </li>
-<li> <em>2022.12</em>: &nbsp;🎉 A-SSR is accepted by IEEE TSP 2022! </li>
-<li> <em>2022.12</em>: &nbsp;🎉 Extended E-SAI is accepted by IEEE TPAMI 2022! </li>
+<li> <em>2022.12</em>: &nbsp;🎉 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10007054">A-SSR</a> is accepted by IEEE TSP 2022! </li>
+<li> <em>2022.12</em>: &nbsp;🎉 Extended <a href="https://github.com/dvs-whu/E-SAI">E-SAI</a> is accepted by IEEE TPAMI 2022! </li>
 <li> <em>2022.04</em>: &nbsp;🛠️ The code of our <a href="https://github.com/XiangZ-0/EVDI">EVDI</a> is released. </li>
 <li> <em>2022.03</em>: &nbsp;🛠️ The code of our <a href="https://github.com/smjsc/EF-SAI">EF-SAI</a> is released. </li>
 <li> <em>2022.03</em>: &nbsp;🎉 EVDI and EF-SAI are accepted by CVPR 2022! Congrats to Wei Liao! </li>
