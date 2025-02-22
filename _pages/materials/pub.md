@@ -1,5 +1,19 @@
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='_pages/materials/imgs/SplatDiff.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion](https://arxiv.org/pdf/2502.12752)
+
+**<u>Xiang Zhang</u>**, Yang Zhang, Lukas Mehl, Markus Gross<sup>†</sup>, Christopher Schroers<sup>†</sup>
+
+ \[[arXiv](https://arxiv.org/pdf/2502.12752)\]
+- We introduce SplatDiff, a pixel-splatting-guided video diffusion model for synthesizing novel views with consistent geometry and high-fidelity texture from a single image.
+- SplatDiff excels in single-view novel view synthesis, sparse-view novel view synthesis, and stereo video conversion, demonstrating remarkable crossdomain and cross-task performance.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='_pages/materials/imgs/BetterDepth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
