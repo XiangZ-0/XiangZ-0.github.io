@@ -1,6 +1,6 @@
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='_pages/materials/imgs/SplatDiff.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='_pages/materials/imgs/SplatDiff.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion](https://arxiv.org/pdf/2502.12752)

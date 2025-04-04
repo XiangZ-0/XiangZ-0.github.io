@@ -11,6 +11,7 @@
 - *2021.03*: &nbsp;🎉 One paper is accepted by CVPR 2021! -->
 
 <div style="overflow: auto; height: 180px;">
+<li> <em>2025.03</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2502.12752">SplatDiff</a> is accepted by SIGGRAPH 2025! </li>
 <li> <em>2025.01</em>: &nbsp;🎉 <a href="https://w3un.github.io/selfunroll/">SelfUnroll</a> is accepted by Springer IJCV 2025! Congrats to Mingyuan Lin and Yanggunag Wang! </li>
 <li> <em>2024.09</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2407.17952">BetterDepth</a> is accepted by NeurIPS 2024! </li>
 <li> <em>2024.07</em>: &nbsp;🎉 HiT-SR is accepted by ECCV 2024 (<b>Oral</b>)! <a href="https://github.com/XiangZ-0/HiT-SR">Code, models, and results</a> are released! </li>
