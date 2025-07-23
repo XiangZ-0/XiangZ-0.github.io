@@ -7,7 +7,7 @@
 
 **<u>Xiang Zhang</u>**, Yang Zhang, Lukas Mehl, Markus Gross<sup>†</sup>, Christopher Schroers<sup>†</sup>
 
- \[[arXiv](https://arxiv.org/pdf/2502.12752)\]
+\[[Website](https://studios.disneyresearch.com/2025/07/16/splatdiff/)\] \[[Paper](https://dl.acm.org/doi/10.1145/3721238.3730669)\] \[[arXiv](https://arxiv.org/pdf/2502.12752)\] \[[Video](https://www.youtube.com/watch?v=YO7W_IxtTcA)\]
 - We introduce SplatDiff, a pixel-splatting-guided video diffusion model for synthesizing novel views with consistent geometry and high-fidelity texture from a single image.
 - SplatDiff excels in single-view novel view synthesis, sparse-view novel view synthesis, and stereo video conversion, demonstrating remarkable crossdomain and cross-task performance.
 </div>
@@ -21,7 +21,7 @@
 
 **<u>Xiang Zhang</u>**, Bingxin Ke, Hayko Riemenschneider, Nando Metzger, Anton Obukhov, Markus Gross<sup>†</sup>, Konrad Schindler, Christopher Schroers<sup>†</sup>
 
- \[[arXiv](https://arxiv.org/pdf/2407.17952)\] \[[Video](https://www.youtube.com/watch?v=G99kKe98FTY)\] \[[Poster](https://1drv.ms/b/c/de821e161e64ce08/EVs02tPk_QlKvuGPUP2TxMEBYgQhWoFNrtCRww1LFH0dUQ?e=ib4reO)\] 
+ \[[Website](https://studios.disneyresearch.com/2024/12/10/betterdepth/)\] \[[arXiv](https://arxiv.org/pdf/2407.17952)\] \[[Poster](https://1drv.ms/b/c/de821e161e64ce08/EVs02tPk_QlKvuGPUP2TxMEBYgQhWoFNrtCRww1LFH0dUQ?e=ib4reO)\] 
 - We propose BetterDepth to boost zero-shot MDE methods with plug-and-play diffusion refiners, achieving robust affine-invariant MDE performance with fine-grained details.
 - We design global pre-alignment and local patch masking strategies to enable learning detail refinement from small-scale synthetic datasets while preserving rich prior knowledge from pre-trained MDE models for zero-shot transfer.
 </div>
