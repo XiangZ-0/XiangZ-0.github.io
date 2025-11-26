@@ -12,6 +12,7 @@
 **Journal Reviewer**
 - [International Journal of Computer Vision (IJCV)](https://link.springer.com/journal/11263)
 - [Information Fusion (INFFUS)](https://www.sciencedirect.com/journal/information-fusion)
+- [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 - [IEEE Journal of Selected Topics in Signal Processing (J-STSP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)
 - [IEEE Transactions on Visualization and Computer Graphics (TVCG)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
 - [IEEE Transactions on Circuits System and Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
