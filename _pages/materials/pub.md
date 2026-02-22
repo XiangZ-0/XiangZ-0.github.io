@@ -1,5 +1,20 @@
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='_pages/materials/imgs/HairGuard.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views](https://arxiv.org/pdf/2601.03362)
+
+**<u>Xiang Zhang</u>**, Yang Zhang, Lukas Mehl, Markus Gross<sup>†</sup>, Christopher Schroers<sup>†</sup>
+
+\[[arXiv](https://arxiv.org/pdf/2601.03362)\]
+- We present HairGuard to capture, model, and reconstruct fine-grained soft boundary details in 3D vision tasks, achieving state-of-the-art performance on monocular depth estimation, stereo conversion, and novel view synthesis.
+- We leverage image matting datasets for training, enabling HairGuard to automatically identify and fix soft boundaries without relying on manually crafted cues like trimaps. A plug-and-play depth fixer is proposed for precise refinement, alongside a color fuser for high-quality view synthesis.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='_pages/materials/imgs/SplatDiff.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -83,6 +98,8 @@ Lei Yu<sup>†</sup>, **<u>Xiang Zhang</u>**, Wei Liao, Wen Yang, Gui-Song Xia
 
 </div>
 </div>
+
+- `AAAI 2026` Event-Guided Super-Resolving Blurry Image via Asymmetric Integral Driven Consistency, Chi Zhang, **<u>Xiang Zhang</u>**, Lei Yu, Gui-Song Xia, Yuming Fang, Wenhan Yang. 
 
 - `IJCV 2025` [Self-Supervised Shutter Unrolling with Events](https://trebuchet.public.springernature.app/get_content/57690a36-b39f-4d81-8024-3576d4af96d6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250129&utm_content=10.1007/s11263-025-02364-z), Mingyuan Lin<sup>\*</sup>, Yanggunag Wang<sup>\*</sup>, **<u>Xiang Zhang</u>**, Boxin Shi, Wen Yang, Chu He, Gui-Song Xia, Lei Yu. \| \[[Website](https://w3un.github.io/selfunroll/)\] \[[Code](https://github.com/w3un/selfunroll_code)\] \[[Dataset](https://drive.google.com/drive/folders/1GhUP-dJIQbutI3uipeuGPMJmfA2u-ACR)\] 
 

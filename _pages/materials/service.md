@@ -19,6 +19,7 @@
 - [Machine Intelligence Research (MIR)](https://link.springer.com/journal/11633)
 
 **Teaching**
+- [263-5704-00L Artificial Intelligence for Digital Characters](https://cgl.ethz.ch/teaching/aichar26/home.php) - Teaching Assistant (Spring 2026)
 - [252-0206-00L Visual Computing](https://cvg.ethz.ch/lectures/Visual-Computing/) - Teaching Assistant (Fall 2025)
 - [263-5704-00L Artificial Intelligence for Digital Characters](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=188568&semkez=2025S&ansicht=LEHRVERANSTALTUNGEN&lang=en) - Teaching Assistant (Spring 2025)
 - [401-0131-00L Lineare Algebra](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=183173&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=en) - Teaching Assistant (Fall 2024)
