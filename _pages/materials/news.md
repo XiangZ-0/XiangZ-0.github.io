@@ -11,6 +11,7 @@
 - *2021.03*: &nbsp;🎉 One paper is accepted by CVPR 2021! -->
 
 <div style="overflow: auto; height: 180px;">
+<li> <em>2026.05</em>: &nbsp;🎉 <a href="https://bestrivenzc.github.io/EVDI-plus-plus/">EVDI++</a> is accepted by IEEE TPAMI 2026! Congrats to Chi Zhang! </li>
 <li> <em>2026.02</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2601.03362">HairGuard</a> is accepted by CVPR 2026! </li>
 <li> <em>2025.11</em>: &nbsp;🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38232">SE-SRB</a> is accepted by AAAI 2026! Congrats to Chi Zhang! </li>
 <li> <em>2025.03</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2502.12752">SplatDiff</a> is accepted by SIGGRAPH 2025! </li>

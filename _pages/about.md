@@ -18,7 +18,6 @@ redirect_from:
 {% include_relative materials/intro.md %}
 {% include_relative materials/news.md %}
 {% include_relative materials/pub.md %}
-{% include_relative materials/talks.md %}
 {% include_relative materials/service.md %}
 {% include_relative materials/misc.md %}
 
