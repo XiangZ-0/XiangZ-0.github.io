@@ -1,5 +1,19 @@
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='_pages/materials/imgs/AlphaDepth.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[$\alpha$Depth: Learning Single-Pass Soft Boundary Decomposition for Stereo Conversion](http://arxiv.org/abs/2606.00386)
+
+**<u>Xiang Zhang</u>**, Yang Zhang, Lukas Mehl, Karlis Martins Briedis, Markus Gross<sup>†</sup>, Christopher Schroers<sup>†</sup>
+
+\[[arXiv](http://arxiv.org/abs/2606.00386)\]
+- We propose a novel layered $\alpha$Depth representation that explicitly disentangles mixed colors and resolves depth ambiguity at soft boundaries for high-fidelity stereo conversion.
+- We design the Circular Alpha Representation (CAR) to model local soft boundary transitions rather than extracting global foregrounds, enabling scene-level inference in a single forward pass without user intervention.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='_pages/materials/imgs/HairGuard.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -7,7 +21,7 @@
 
 **<u>Xiang Zhang</u>**, Yang Zhang, Lukas Mehl, Markus Gross<sup>†</sup>, Christopher Schroers<sup>†</sup>
 
-\[[arXiv](https://arxiv.org/pdf/2601.03362)\]
+\[[Website](https://studios.disneyresearch.com/2026/05/31/guardians-of-the-hair-rescuing-soft-boundaries-in-depth-stereo-and-novel-views/)\] \[[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Guardians_of_the_Hair_Rescuing_Soft_Boundaries_in_Depth_Stereo_CVPR_2026_paper.html)\] \[[arXiv](https://arxiv.org/pdf/2601.03362)\]
 - We present HairGuard to capture, model, and reconstruct fine-grained soft boundary details in 3D vision tasks, achieving state-of-the-art performance on monocular depth estimation, stereo conversion, and novel view synthesis.
 - We leverage image matting datasets for training, enabling HairGuard to automatically identify and fix soft boundaries without relying on manually crafted cues like trimaps. A plug-and-play depth fixer is proposed for precise refinement, alongside a color fuser for high-quality view synthesis.
 </div>
