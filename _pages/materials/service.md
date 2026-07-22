@@ -8,6 +8,7 @@
 - Advances in Neural Information Processing Systems (NeurIPS)
 - International Conference on Learning Representations (ICLR)
 - International Conference on Machine Learning (ICML)
+- AAAI Conference on Artificial Intelligence (AAAI)
 
 **Journal Reviewer**
 - [International Journal of Computer Vision (IJCV)](https://link.springer.com/journal/11263)
