@@ -1,7 +1,7 @@
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='_pages/materials/imgs/AlphaDepth.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='_pages/materials/imgs/AlphaDepth.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [$\alpha$Depth: Learning Single-Pass Soft Boundary Decomposition for Stereo Conversion](http://arxiv.org/abs/2606.00386)
